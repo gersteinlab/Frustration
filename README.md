@@ -6,7 +6,7 @@ list of single nucleotide variants(SNVs). More details about running VAT can be 
 
 This workflow consist of three steps for evaluating changes in frustration:
 
-**1) Parsing VAT output of all SNVs to etxract residue position and residue identity for the mutated residue on protein sequence. **
+**1) Parsing VAT output of all SNVs to etxract residue position and residue identity for the mutated residue on protein sequence **
 
 
 Usage:
@@ -24,7 +24,7 @@ Usage:
   
 
 
-**2) Mapping each SNV onto user-provided list of PDB strcuture. **
+**2) Mapping each SNV onto user-provided list of PDB strcuture **
 
 
 Usage:
@@ -46,7 +46,7 @@ Usage:
   
   pdbSeqDir = pdbTool directory
 
-**3) Evaluating Frustration changes of residues. **
+**3) Evaluating Frustration changes of residues **
 
 
 Usage:
