@@ -23,7 +23,8 @@ You Need to Install following tools
 
 7)Contrib
 
-This workflow consist of three steps for evaluating changes in frustration:
+
+**This workflow consist of three steps for evaluating changes in frustration:**
 __________________________________________________________________________
 
 **1) Parsing VAT output of all SNVs to etxract residue position and residue identity for the mutated residue on protein sequence**
