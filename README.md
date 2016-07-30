@@ -22,12 +22,13 @@ In order to calculate frustration changes, one need to Install following tools
 6) BALL (http://www.ball-project.org/Downloads)
 
 7)Contrib (http://www.ball-project.org/Downloads/index_html/Contrib/)
-___________________________________________________________________________
 
 
 
-**This workflow consist of three steps for evaluating changes in frustration:**
+**Workflow**
 __________________________________________________________________________
+
+This workflow consist of three steps for evaluating changes in frustration:
 
 **1) Parsing VAT output of all SNVs to etxract residue position and residue identity for the mutated residue on protein sequence**
 
