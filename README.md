@@ -12,8 +12,7 @@ This workflow consist of three steps for evaluating changes in frustration:
 Usage:
 
 
-  "parseVatOut.py -d "dataResource" -v "vatOut" -b "bioMartFile" -type "snpType" "
-  
+  parseVatOut.py -d "dataResourceFile" -v "vatOutputFile" -b "bioMartFile" -type "snpType (nonsynonymous)" 
   
   parseVatOut.py (-h | --help)
 
@@ -23,7 +22,7 @@ Usage:
 Usage:
 
 
-  "mapSNP2PDB.py -p <pdbIdList> -b <bioMartFile> -I <snpSummaryFile> -B <blastPDir> -M <modellerDir> -P <pbdSeqDir> -O <outLogFile>
+  mapSNP2PDB.py -p "pdbIdList" -b "bioMartFile" -I "snpSummaryFile" -B "blastPDir" -M "modellerDir" -P "pbdSeqDir" -O "outLogFile"
   
   mapSNP2PDB.py (-h | --help)
 
@@ -32,7 +31,7 @@ Usage:
 
 Usage:
   
-  " extractFrustrationInfo1.py -I <mappedSNPInfo> -nd <nativePDBDir> -md <mutPDBDir> -F <frstnExecDir> -P <pdbSeqDir> -O <frustrationOutFile>"
+  extractFrustrationInfo1.py -I "mappedSNPInfo" -nd "nativePDBDir" -md "mutPDBDir" -F "frstnExecDir" -P "pdbSeqDir" -O "frustrationOutFile"
   
   
   extractFrustrationInfo1.py (-h | --help)
