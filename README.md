@@ -24,7 +24,7 @@ Usage:
   
 
 
-**2) Mapping each SNV onto user-provided list of PDB strcuture**
+**2) Mapping each SNV onto user-provided list of PDB strcuture ange generating mutated PDB**
 
 
 Usage:
