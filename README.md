@@ -7,21 +7,21 @@ list of single nucleotide variants(SNVs). More details about running VAT can be 
 **Dependencies**
 __________________________________________________________________________
 
-You Need to Install following tools
+In order to calculate frustration changes, one need to Install following tools
 
-1) VAT
+1) VAT (http://vat.gersteinlab.org/)
 
 2) BlastP
 
 3) Modeller
 
-4) pdbTools
+4) pdbTools (https://github.com/harmslab/pdbtools)
 
 5) Frustration code
 
-6) BALL 
+6) BALL (http://www.ball-project.org/Downloads)
 
-7)Contrib
+7)Contrib (http://www.ball-project.org/Downloads/index_html/Contrib/)
 
 
 **This workflow consist of three steps for evaluating changes in frustration:**
