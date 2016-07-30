@@ -12,7 +12,7 @@ This workflow consist of three steps for evaluating changes in frustration:
 Usage:
 
 
-  *parseVatOut.py -d dataResourceFile -v vatOutputFile -b bioMartFile -type snpType*
+  **_parseVatOut.py -d dataResourceFile -v vatOutputFile -b bioMartFile -type snpType_**
   
   parseVatOut.py (-h | --help)
   
