@@ -4,6 +4,25 @@ This repository contains source code for workflow evaluating the change in Local
 upon mutation. The input to this workflow is VAT output file, which is ran on the user provided
 list of single nucleotide variants(SNVs). More details about running VAT can be found here (http://vat.gersteinlab.org/).
 
+**Dependencies**
+__________________________________________________________________________
+
+You Need to Install following tools
+
+1) VAT
+
+2) BlastP
+
+3) Modeller
+
+4) pdbTools
+
+5) Frustration code
+
+6) BALL 
+
+7)Contrib
+
 This workflow consist of three steps for evaluating changes in frustration:
 __________________________________________________________________________
 
