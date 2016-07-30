@@ -4,7 +4,8 @@ This repository contains source code for workflow evaluating the change in Local
 upon mutation. The input to this workflow is VAT output file, which is ran on the user provided
 list of single nucleotide variants(SNVs). More details about running VAT can be found here (http://vat.gersteinlab.org/).
 
----This workflow consist of three steps for evaluating changes in frustration:
+This workflow consist of three steps for evaluating changes in frustration:
+__________________________________________________________________________
 
 **1) Parsing VAT output of all SNVs to etxract residue position and residue identity for the mutated residue on protein sequence**
 
