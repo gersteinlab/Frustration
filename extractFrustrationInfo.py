@@ -1,7 +1,7 @@
 """extractFrustrationInfo
 
 Usage:
-  extractFrustrationInfo1.py -I <mappedSNPInfo> -nd <nativePDBDir> -md <mutPDBDir> -F <frstnExecDir> -P <pdbSeqDir> -O <frustrationOutFile>
+  extractFrustrationInfo.py -I <mappedSNPInfo> -nd <nativePDBDir> -md <mutPDBDir> -F <frstnExecDir> -P <pdbSeqDir> -O <frustrationOutFile>
   extractFrustrationInfo1.py (-h | --help)
 
 Options:
