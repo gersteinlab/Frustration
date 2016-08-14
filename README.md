@@ -13,7 +13,7 @@ In order to calculate frustration changes, one need to Install following tools
 
 2) BlastP
 
-3) Modeller ( you also need to place **mutate_model.py** script from the Modeler in your working directory)
+3) Modeller ( you also need to place **[mutate_model.py](http://salilab.org/modeller/wiki/Mutate%20model)** script from the Modeler in your working directory)
 
 4) pdbTools (https://github.com/harmslab/pdbtools)
 
