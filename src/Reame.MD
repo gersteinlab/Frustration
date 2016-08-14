@@ -1,6 +1,4 @@
-Note, the frustratometer needs the pdb structure to have all the backbone and the C-beta present in order to run. If you have some of those atoms missing you will need to complete the structure. In the server we apply a simple automodel with modeller to do that, but you can use whatever other tool to do it. This server also does the work but the code is not available (at least the last time I checked) to run it locally: http://lorentz.immstr.pasteur.fr/pdb/frozen_submission.php.
-
-Additionally the frustratometer requires some external libraries to be installed in order to run.
+Note, the frustratometer needs the pdb structure to have all the backbone and the C-beta present in order to run. If you have some of those atoms missing you will need to complete the structure. Additionally the frustratometer requires some external libraries to be installed in order to run.
 
 You will need to install a library called BALL
 http://www.ball-project.org/Downloads
