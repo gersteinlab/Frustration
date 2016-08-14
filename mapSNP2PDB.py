@@ -313,7 +313,7 @@ def main(arguments):
 
     blastP = arguments["<blastPDir>"]+'blastp'
     modelerSH = arguments["<modellerDir>"]+'modpy.sh'
-    mutateModel = arguments["<modellerDir>"]+'mutate_model.py'
+    mutateModel = 'mutate_model.py'
     pdbSeq = arguments["<pbdSeqDir>"]+'pdb_seq.py'
     outFile = arguments["<outLogFile>"]
 
