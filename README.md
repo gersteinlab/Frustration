@@ -7,7 +7,7 @@ list of single nucleotide variants(SNVs). More details about running VAT can be 
 **Dependencies**
 __________________________________________________________________________
 
-In order to calculate frustration changes, one need to Install following tools
+In order to calculate frustration changes, one need to Install following set of tools
 
 1) VAT (http://vat.gersteinlab.org/)
 
@@ -15,7 +15,7 @@ In order to calculate frustration changes, one need to Install following tools
 
 3) Modeller 
 
-4)you also need to place **[mutate_model.py](http://salilab.org/modeller/wiki/Mutate%20model)** script from the Modeler in your working directory)
+4) **[mutate_model.py](http://salilab.org/modeller/wiki/Mutate%20model)** script from the Modeller in your working directory
 
 5) pdbTools (https://github.com/harmslab/pdbtools)
 
