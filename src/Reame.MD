@@ -1,4 +1,4 @@
-Note, the frustratometer needs the pdb structure to have all the backbone and the C-beta present in order to run. If you have some of those atoms missing you will need to complete the structure. Additionally the frustratometer requires some external libraries to be installed in order to run.
+Note, that frustratometer code needs the pdb structure to have all the backbone and the C-beta present in order to run. If you have some of those atoms missing you will need to complete the structure. Additionally the frustratometer requires some external libraries to be installed in order to run.
 
 You will need to install a library called BALL
 http://www.ball-project.org/Downloads
